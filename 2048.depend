@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1416408370 source:c:\users\rennorb\documents\2048\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+
